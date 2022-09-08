@@ -1,0 +1,17 @@
+.jmb {
+  background-image: url(../img/bf.png);
+  background-size: auto;
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 380px;
+}
+
+.jumbotron {
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 1px 1px 1px 0.8;
+}
+
+.checked {
+  color: orange;
+}
